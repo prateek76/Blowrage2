@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: 6cf43160d897deb4a946f0fe503eac40
+timeCreated: 1479562332
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Antenna
+    100002: Radar_Base
+    100004: Radar_Dish
+    100006: Suspension_F.L
+    100008: Suspension_F.R
+    100010: Suspension_R.L
+    100012: Suspension_R.R
+    100014: //RootNode
+    100016: Weapon_Slot
+    100018: Wheel_F.L
+    100020: Wheel_F.R
+    100022: Wheel_Pivot_F.L
+    100024: Wheel_Pivot_F.R
+    100026: Wheel_R.L
+    100028: Wheel_R.R
+    400000: Antenna
+    400002: Radar_Base
+    400004: Radar_Dish
+    400006: Suspension_F.L
+    400008: Suspension_F.R
+    400010: Suspension_R.L
+    400012: Suspension_R.R
+    400014: //RootNode
+    400016: Weapon_Slot
+    400018: Wheel_F.L
+    400020: Wheel_F.R
+    400022: Wheel_Pivot_F.L
+    400024: Wheel_Pivot_F.R
+    400026: Wheel_R.L
+    400028: Wheel_R.R
+    2300000: Antenna
+    2300002: Radar_Base
+    2300004: Radar_Dish
+    2300006: Suspension_F.L
+    2300008: Suspension_F.R
+    2300010: Suspension_R.L
+    2300012: Suspension_R.R
+    2300014: //RootNode
+    2300016: Wheel_F.L
+    2300018: Wheel_F.R
+    2300020: Wheel_R.L
+    2300022: Wheel_R.R
+    3300000: Antenna
+    3300002: Radar_Base
+    3300004: Radar_Dish
+    3300006: Suspension_F.L
+    3300008: Suspension_F.R
+    3300010: Suspension_R.L
+    3300012: Suspension_R.R
+    3300014: //RootNode
+    3300016: Wheel_F.L
+    3300018: Wheel_F.R
+    3300020: Wheel_R.L
+    3300022: Wheel_R.R
+    4300000: Vehicle_3
+    4300002: Antenna
+    4300004: Suspension_R.R
+    4300006: Wheel_R.R
+    4300008: Suspension_R.L
+    4300010: Wheel_R.L
+    4300012: Suspension_F.L
+    4300014: Wheel_F.L
+    4300016: Suspension_F.R
+    4300018: Wheel_F.R
+    4300020: Radar_Base
+    4300022: Radar_Dish
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
