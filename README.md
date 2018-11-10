@@ -46,6 +46,14 @@ go to file -> build
 
 that's it
 
+## Screenshots
+<img src="https://prateek76.github.io/Blowrage2/screen/1.png" width="800">
+
+<img src="https://prateek76.github.io/Blowrage2/screen/2.png" width="400">            <img src="https://prateek76.github.io/Blowrage2/screen/3.png" width="400">
+
+<img src="https://prateek76.github.io/Blowrage2/screen/4.png" width="400">            <img src="https://prateek76.github.io/Blowrage2/screen/5.png" width="400">
+
+
 ## Authors
 
 * **Prateek** 
