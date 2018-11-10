@@ -6,6 +6,14 @@ A bridge crossing game challange ver 2.0
 * UNITY
 * C#
 
+## game working links
+
+[GitHub](https://prateek76.github.io/Blowrage2/)
+[itch](https://prateek76.itch.io/blowrage)
+[Download for windows](#) comming soon!
+
+
+
 ## Development setup
 
 Install unity in your WINDOWS
