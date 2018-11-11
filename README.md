@@ -10,7 +10,7 @@ A bridge crossing game challange ver 2.0
 
 * [GitHub](https://prateek76.github.io/Blowrage2/) Github hosted
 * [itch](https://prateek76.itch.io/blowrage) itch.io hosted
-* [Download for windows](https://doc-04-bc-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/h39c2kbkhrtoakqh5r2pukk8iiv0ag3q/1541923200000/16880230332876410989/*/1w6NZiBoZuhZjcclx0z2s0o1OiMVARPtx?e=download)
+* [Download for windows](https://doc-0s-bc-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/3ehktfaucjg862mkgh9ud1q6frvmog49/1541952000000/16880230332876410989/*/1o-Ju1y0HyvEsY8Ustoieo3zo6crrllXs?e=download)
 
 
 
