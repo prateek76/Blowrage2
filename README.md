@@ -1,7 +1,7 @@
 # Blowrage2
 A bridge crossing game challange ver 2.0
 
-# Watch gameplay here [YOUTUBE](https://www.youtube.com/watch?v=Q9dzwiYps1c)
+### Watch gameplay here [YOUTUBE](https://www.youtube.com/watch?v=Q9dzwiYps1c)
 
 ## Built With
 
