@@ -1,0 +1,13 @@
+{
+"companyName": "Deflorator",
+"productName": "BlowRage",
+"dataUrl": "newset2.data.unityweb",
+"wasmCodeUrl": "newset2.wasm.code.unityweb",
+"wasmFrameworkUrl": "newset2.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#E4E1E1",
+"cacheControl": {"default": "must-revalidate"}
+}
