@@ -14,13 +14,13 @@ public class playerMove : MonoBehaviour {
 	
 	// Update is called once per frame
 	void FixedUpdate () {
-        rb.AddForce(0, 0, forwardForce * Time.deltaTime); //add force just add force and will depend on framerate so to keepp speed same accross all users using Time.deltatime
-        if(Input.GetKey("d"))
+        rb.AddForce(0, 0, forwardForce * Time.deltaTime); //add force just add force and will depend on framerate so to keep speed same accross all users using Time.deltatime
+        if(Input.GetKey("d") || Input.GetKey(KeyCode.RightArrow))
         {
             rb.AddForce(sideForce * Time.deltaTime, 0, 0, ForceMode.VelocityChange);
         }
 
-        if (Input.GetKey("a"))
+        if (Input.GetKey("a") || Input.GetKey(KeyCode.LeftArrow))
         {
             rb.AddForce(-sideForce * Time.deltaTime, 0, 0, ForceMode.VelocityChange);
         }
